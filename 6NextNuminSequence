@@ -1,0 +1,6 @@
+6.Find the next number in the sequence: 2, 6, 12, 20, 30, 42, ...?
+
+Explanation:
+The pattern is 1 x 2, 2 x 3, 3 x 4, 4 x 5, 5 x 6, 6 x 7, 
+
+So, the next number is 7 x 8 = 56.

@@ -1,0 +1,19 @@
+7.In how many different ways can 5 books be arranged on a shelf?
+
+Answer:
+To determine the number of ways to arrange 5 books on a shelf, we need to calculate the number of permutations of 5 distinct items.
+
+The formula for the number of permutations of nn distinct items is n!n! (n factorial), where n!n! represents the product of all positive integers up to nn.
+
+For 5 books, the calculation is:
+
+5!=5×4×3×2×15!=5×4×3×2×1
+
+Calculating this step by step:
+
+5×4=205×4=20
+20×3=6020×3=60
+60×2=12060×2=120
+120×1=120120×1=120
+
+Therefore, the number of different ways to arrange 5 books on a shelf is 120.

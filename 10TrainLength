@@ -1,0 +1,19 @@
+10.A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+
+To find the length of the train, you can use the relationship between speed, time, and distance. Here's how:
+
+    Convert the speed from km/hr to m/s:
+    Speed=60 km/hrSpeed=60 km/hr
+    1 km/hr = 5/18 m/s
+    60 km/hr = 60×5/18
+             = 300/18
+             = 16.67 m/s
+
+    Use the speed and time to find the length of the train:
+    The train crosses a pole in 9 seconds. The length of the train is the distance it travels in that time.
+
+    Length of the train = Speed×TimeLength of the train=Speed×Time
+    Length of the train = 16.67 m/s * 9 s
+    Length of the train = 150 meters
+
+So, the length of the train is 150 meters.

@@ -1,0 +1,33 @@
+9.What is the angle between the hour and minute hands of a clock at 7:20?
+
+
+To find the angle between the hour and minute hands of a clock at 7:20, we need to calculate the positions of both hands and then determine the angle between them.
+
+Step 1: Calculate the angle of the minute hand
+
+The minute hand moves 360 degrees in 60 minutes, so it moves:
+360/60 = 6 degrees per minute
+
+At 20 minutes, the minute hand is:
+20×6 = 120 degrees
+
+Step 2: Calculate the angle of the hour hand
+
+The hour hand moves 360 degrees in 12 hours, so it moves:
+360/12 = 30 degrees per hour
+
+At 7:00, the hour hand is at:
+7×30 = 210 degrees
+
+Additionally, the hour hand moves as the minutes pass. In 20 minutes, the hour hand moves:
+20×30/60 = 10 degrees
+
+So, at 7:20, the hour hand is:
+210 + 10 = 220 degrees
+
+Step 3: Calculate the angle between the hour and minute hands
+
+The angle between the two hands is the absolute difference between their positions:
+220 − 120 = 100 degrees
+
+Therefore, the angle between the hour and minute hands of a clock at 7:20 is 100 degrees.
